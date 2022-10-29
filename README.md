@@ -6,3 +6,6 @@ to all our existing catalog of beverages.
 
 ### Tips:
 You might want to refactor the code a bit first.
+
+
+Solution on branch [solution1](https://github.com/xgrimauu/beverages_pricing_refactoring_kata/tree/solution1)
